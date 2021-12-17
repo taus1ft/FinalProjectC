@@ -35,7 +35,7 @@ void runDerivative (void) {
     //printf("What variable would you like to use? Options are from a to z.\n\n");
     //scanf("%c", &fxnvar);
     
-    printf("The derivative of your linear function is: %.2fx", linearvals[0]);
+    printf("The derivative of your linear function is: %.2f", linearvals[0]);
     break;
 
     case 2:
