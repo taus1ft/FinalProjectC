@@ -33,3 +33,6 @@ For each type of function, we make an array which is like a databank. For exampl
 To Return the Derivative we have our array of the variables we replaced, which are our ...vals[x], we simply just printf the value using a template of how to find the derivative. For example 3 x ^ 2.
 
 The derivative of that is 6 x ^ 1  so we replace the a and b on a x ^ b with (ab) x ^ (b-1).
+
+Link to our Youtube Video:
+https://youtu.be/MUv6pXDb880
